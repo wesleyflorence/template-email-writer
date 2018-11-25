@@ -1,0 +1,11 @@
+#ignore idea folder
+.idea
+
+#ignore idea workspace
+.idea/workspace.xml
+
+#ignore target folder
+target/
+
+#ignore .iml files
+*.iml
