@@ -1,2 +1,2 @@
 # template-email-writer
-Writes emails for a list of contacts from a provided template
+Automated contact system that writes emails from the provided template with the appropriate contact metadata inserted into it.
